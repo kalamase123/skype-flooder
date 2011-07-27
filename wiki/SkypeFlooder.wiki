@@ -7,8 +7,8 @@ To install just run install.exe and let windows do its magic ;)
 
 To get the registered version please open an Issue and request so the current pricing is...
 
-* Full lifetime support £20
-* Full lifetime support with future *Registered* Updates £40
+* Full lifetime support £20<br>
+* Full lifetime support with future *Registered* Updates £40<br>
 * Registered program with no support £5
 
 = Details =
