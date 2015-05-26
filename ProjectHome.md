@@ -1,0 +1,1 @@
+Mainly aimed and optimized for use with skype, however uses can ranger from skype to facebook and even msn etc
